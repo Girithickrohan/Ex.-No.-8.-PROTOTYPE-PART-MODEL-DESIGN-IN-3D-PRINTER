@@ -46,9 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-
-### Name:
-### Register Number:
+### Name: GIRRITHICK ROHAN N
+### Register Number: 212223230063
+![image](https://github.com/Girithickrohan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849207/1878fa9c-c937-4162-a138-e999e0656994)
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
